@@ -1,0 +1,2 @@
+# MySQL-NodeREd-ESP32-MQTT
+Pruebas MySQL NodeREd ESP32 MQTT
